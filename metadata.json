@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Nhóm Quán Toan",
+  "description": "Ứng dụng Bảng nhóm học tập tương tác thời gian thực cho Trường Tiểu học Quán Toan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
